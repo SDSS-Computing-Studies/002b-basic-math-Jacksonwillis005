@@ -3,8 +3,8 @@
 # There are two variables that have assigned values for x and y 
 # Display the difference of the two numbers (use subtraction) 
 # The answer should be calculated and stored in a variable called "answer" (1 points)
-x = 85
-y = 5
+x = 5
+y = 2
 
 answer= x/y
 print(answer)
